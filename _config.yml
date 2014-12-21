@@ -1,0 +1,8 @@
+# Site settings
+title: craftxbox
+description: "Minecraft mods and more"
+baseurl: ""
+url: "https://craftxbox-github-io-phillips1012.c9.io"
+
+# Build settings
+markdown: kramdown
