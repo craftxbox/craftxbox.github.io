@@ -8,7 +8,7 @@ permalink: /
 
 #Welcome
 
-Welcome To the new and improved Craftxbox.tk!  
+Welcome To the new and improved Craftxbox.tk!
 
 This is my website, and where I post updates and my Minecraft mods
 
