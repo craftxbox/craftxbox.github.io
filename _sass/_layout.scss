@@ -14,7 +14,8 @@ body {
 
 .page-content {
     margin-top: -50px;
-    border-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 .page-content, .site-footer {
     background-color: rgba(224, 224, 224, 0.8);
