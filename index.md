@@ -7,7 +7,10 @@ permalink: /
 <div class="left">
 
 #Welcome
-Welcome To the new and improved Craftxbox.tk!This is my website, and where I post updates and my Minecraft mods
+
+Welcome To the new and improved Craftxbox.tk!  
+
+This is my website, and where I post updates and my Minecraft mods
 
 </div>
 
