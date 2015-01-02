@@ -6,3 +6,6 @@ url: "https://craftxbox.tk"
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
