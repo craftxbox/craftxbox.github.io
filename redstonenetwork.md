@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Server
-permalink: /redstonenetwork/
+permalink: /server/
 ---
-
-#Redstone Network
-
-Welcome to the Redstone Network Website!
+IP: mc.craftxbox.tk  
+WEBSITE: [Redstone Network](http://redstone-network.enjin.com)
