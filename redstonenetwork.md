@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Server
+nomenu: true
 permalink: /server/
 ---
 IP: mc.craftxbox.tk  
