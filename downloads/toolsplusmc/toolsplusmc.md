@@ -2,8 +2,8 @@
 layout: page
 title: Tools+
 nomenu: true
-permalink: /mods/toolsplus/
+permalink: /downloads/toolsplusmc/
 ---
-Adding More tools to yours game!
+Adding More tools to your Minecraft Game!
 
 [Download](http://craftxbox.tk/mods/toolsplus/tools+.exe)
