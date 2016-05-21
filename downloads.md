@@ -5,4 +5,4 @@ permalink: /downloads/
 ---
 
 [Tools+(Minecraft)](/downloads/toolsplusmc/)
-[Lottery Winner(RCT2)](/downloads/lotterywinnerrct2/)
+<!--[Lottery Winner(RCT2)](/downloads/lotterywinnerrct2/)-->
