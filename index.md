@@ -13,3 +13,4 @@ Welcome to craftxbox.tk, this is my personal website where I post updates and so
 </div>
 
 {% include latest.html %}
+{% include footer.html %}

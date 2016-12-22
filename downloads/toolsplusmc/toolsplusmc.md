@@ -2,7 +2,7 @@
 layout: page
 title: Tools+
 nomenu: true
-permalink: /downloads/toolsplusmc/
+permalink: /downloads/toolsplus/
 ---
 Adding More tools to your Minecraft Game!
 
