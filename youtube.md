@@ -5,7 +5,7 @@ permalink: /youtube/
 ---
 
 <header class="post-header">
-  <h1 style="text-align: center" class="post-title">403</h1>
+  <h1 style="text-align: center" class="post-title">301</h1>
 </header>
-<p style="text-align: center">Hmm You shouldnt be here, you may leave if you want</p>
+<p style="text-align: center">This page is ment to redirect to https://youtube.com/c/craftxboxtk</p>
 <img style="display: block; margin-left: auto; margin-right: auto" src="/images/bear.png" alt="*Facepalm*">
