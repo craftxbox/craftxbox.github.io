@@ -4,5 +4,5 @@ title: Downloads
 permalink: /downloads/
 ---
 
-[SCalc](/downloads/scalc/)
+[SCalc](/downloads/scalc/)  
 [Image Destroyer](/downloads/imagedestroyer/)
