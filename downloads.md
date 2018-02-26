@@ -5,5 +5,5 @@ permalink: /downloads/
 ---
 
 [SCalc](/downloads/scalc/)  
-[Image Destroyer](/downloads/imagedestroyer/)
+[Image Destroyer](/downloads/imagedestroyer/)  
 [TINcoder](/downloads/tincoder/)
