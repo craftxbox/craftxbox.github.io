@@ -10,5 +10,5 @@ Supports PNG and JPEG
 <img src="/images/imde_scr1.png">
 <img src="/images/imde_scr2.png">
 
-[Download](https://github.com/craftxbox/ImageDestroyer/releases/download/1.1/ImageDestroyer.exe)  
+[Download](https://github.com/craftxbox/ImageDestroyer/releases/latest)  
 [View the source](https://github.com/craftxbox/ImageDestroyer)
