@@ -15,8 +15,8 @@ However, code licensed with this license may never be sold to anyone for anythin
 The full license text is below: 
 
 <code>
-Copyright (c) [year] [licenser]
-
+Copyright (c) [year] [licenser]  
+  
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
