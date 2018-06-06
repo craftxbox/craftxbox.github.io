@@ -4,7 +4,6 @@ title: My Modified Mit License
 permalink: /mmit/
 nomenu: true
 ---
-{::options parse_block_html="true" /}
 This page serves as a permanent link to the modified mit licence that I may use for licensing my software.  
   
 This license, may be used by any one for any reason, provided they provide the full license text and a link to this web page.  
