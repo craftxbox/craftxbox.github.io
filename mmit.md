@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Modified Mit License
-permalink: /mmit-licence/
+permalink: /mmit/
 nomenu: true
 ---
 {::options parse_block_html="true" /}
