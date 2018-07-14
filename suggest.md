@@ -2,6 +2,7 @@
 layout: page
 title: Suggestions
 permalink: /suggest/
+nomenu: true
 ---
 
 # Give me feedback
