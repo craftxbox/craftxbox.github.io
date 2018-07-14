@@ -1,6 +1,6 @@
 body {
     background-repeat: repeat;
-    background-image: url("/images/dirt.png");
+    background-color: #212121
 }
 
 .left {
@@ -17,7 +17,7 @@ body {
     border-radius: 10px;
 }
 .page-content, .site-footer {
-    background-color: rgba(224, 224, 224, 0.8);
+    background-color: #BDBDBDCC;
     margin-right: auto;
     margin-left: auto;
     width: 85%;
@@ -52,11 +52,10 @@ body {
     min-height: 240px;
     text-align: center;
     .site-title {
-        text-shadow: 0px 0px 20px rgba(255, 255, 255, 1);
-        color: #1c1c1c;
+        color: #E0E0E0;
         font-size: 60px;
         + .text {
-            text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
+            color:#9e9e9e;
             font-size:18px;
         }
     }
@@ -68,7 +67,6 @@ body {
     background-repeat: repeat-x;
     width: 100%;
     height: 240px;
-    background-image: url("/images/header.png");
     z-index: -1;
 }
 
