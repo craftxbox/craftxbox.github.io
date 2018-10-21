@@ -11,6 +11,8 @@ This license, may be used by any one for any reason, provided they provide the f
 Code licenced with this licence may be modified, distributed and used privately as long as the licence and copyright notice is provided.  
 However, code licensed with this license may never be sold to anyone for anything, and no one may be held liable for anything licensed code causes nor can it be sublicenced.
 
+Disclaimer: This licence is not compatible with regular MIT licence, it is only called modified MIT because MIT is the original text that I have based the text on.
+
 The full license text is below: 
 
 
@@ -25,8 +27,9 @@ The full license text is below:
 >The above copyright notice and this permission notice shall be included in all  
 >copies or substantial portions of the Software.  
 >  
->Under no circumstances shall the Software be sold to, or from any party for  
->any amount of money or other asset.  
+>Under no circumstances shall the Software, or access to a hosted instance of
+>the software, be sold to, or from any party for any amount of money or other 
+>asset.  
 >  
 >THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
 >IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
