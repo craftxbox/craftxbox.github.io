@@ -27,8 +27,8 @@ The full license text is below:
 >The above copyright notice and this permission notice shall be included in all  
 >copies or substantial portions of the Software.  
 >  
->Under no circumstances shall the Software, or access to a hosted instance of
->the software, be sold to, or from any party for any amount of money or other 
+>Under no circumstances shall the Software, or access to a hosted instance of  
+>the software, be sold to, or from any party for any amount of money or other  
 >asset.  
 >  
 >THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
