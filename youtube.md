@@ -2,6 +2,7 @@
 layout: default
 title: Youtube
 permalink: /youtube/
+order: 3
 ---
 
 <header class="post-header">
