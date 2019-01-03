@@ -2,6 +2,7 @@
 layout: page
 title: Home
 permalink: /
+order:0
 ---
 {::options parse_block_html="true" /}
 <div class="left">
