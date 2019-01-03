@@ -15,7 +15,7 @@ permalink: /news/
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <p>{{ post.excerpt | strip_html | strip_newlines | truncatewords:75 }}</p>
+        <p>{{ post.excerpt | strip_html | strip_newlines | truncatewords:35 }}</p>
       </li>
     {% endfor %}
   </ul>
