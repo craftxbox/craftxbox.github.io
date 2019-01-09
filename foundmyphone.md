@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Found My Phone Service
-permalink: /foundmyphone/
+permalink: /foundmyphone
 nomenu: true
 ---
 FOUND MY PHONE READY -- SERVICE UNDEPLOYED  
