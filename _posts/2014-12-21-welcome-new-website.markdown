@@ -2,6 +2,8 @@
 layout: post
 title: Welcome to my new website!
 date: 2014-12-21 03:35:22
+author: craftxbox
+keywords: new website, website, new
 ---
 
 Welcome to my new website!
