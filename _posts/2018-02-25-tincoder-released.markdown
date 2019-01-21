@@ -6,5 +6,5 @@ author: craftxbox
 keywords: tincoder, tincoder download, download
 ---
 I have now released TINcoder, a one day project that encodes text into png images and back  
-You can download it [here](https://craftxbox.com/downloads/tincoder)  
+You can download it [here](https://craftxbox.com/downloads/tincoder/)  
 Or view the source code [here](https://github.com/craftxbox/TINcoder/)
