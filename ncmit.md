@@ -3,6 +3,8 @@ layout: page
 title: No Commercial MIT License
 permalink: /ncmit/
 nomenu: true
+author: craftxbox
+keywords: , ncmit, ncmit licence, licence, code licence
 ---
 This page serves as a permanent link to the No Commercial MIT License (Previously Modified MIT License) that I or others may use for licensing my software.  
   
