@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://craftxbox.com/</loc>
+  <lastmod>2019-01-21T00:44:53+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://craftxbox.com/news/</loc>
+  <lastmod>2019-01-21T00:44:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://craftxbox.com/content/</loc>
+  <lastmod>2019-01-21T00:44:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://craftxbox.com/youtube/</loc>
+  <lastmod>2019-01-21T00:44:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://craftxbox.com/2019/01/02/no-commercial-mit.html</loc>
+  <lastmod>2019-01-21T00:44:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://craftxbox.com/2018/02/25/tincoder-released.html</loc>
+  <lastmod>2019-01-21T00:44:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://craftxbox.com/2017/09/09/image-destroyer-released.html</loc>
+  <lastmod>2019-01-21T00:44:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://craftxbox.com/2016/12/22/scalc_released.html</loc>
+  <lastmod>2019-01-21T00:44:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://craftxbox.com/2014/12/21/welcome-new-website.html</loc>
+  <lastmod>2019-01-21T00:44:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://craftxbox.com/downloads/scalc/</loc>
+  <lastmod>2019-01-21T00:44:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://craftxbox.com/downloads/imagedestroyer/</loc>
+  <lastmod>2019-01-21T00:44:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://craftxbox.com/downloads/tincoder/</loc>
+  <lastmod>2019-01-21T00:44:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://craftxbox.com/ncmit/</loc>
+  <lastmod>2019-01-21T00:44:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://craftxbox.com/suggest/</loc>
+  <lastmod>2019-01-21T00:44:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
