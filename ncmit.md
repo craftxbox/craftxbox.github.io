@@ -1,6 +1,6 @@
 ---
 layout: page
-title: No Commercial MIT License
+title: Non-Commercial MIT License
 permalink: /ncmit/
 nomenu: true
 author: craftxbox
