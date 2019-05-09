@@ -15,5 +15,5 @@ However, code licensed with this license may never be sold to anyone for anythin
 
 Disclaimer: This licence is not, and will not, be compatible with the MIT license due to fundamental differences. This is a modified, and therein seperate, license derived from the MIT license format.
  
-Full licence text can be found here:
-https://github.com/craftxbox/ncmit/blob/master/LICENCE
+Full licence text can be found here:  
+[https://github.com/craftxbox/ncmit/blob/master/LICENCE](https://github.com/craftxbox/ncmit/blob/master/LICENCE)
