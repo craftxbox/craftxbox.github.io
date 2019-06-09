@@ -9,4 +9,5 @@ This is the content page. It contains links to content on the site that isnt ava
 [SCalc](/downloads/scalc/)  
 [Image Destroyer](/downloads/imagedestroyer/)  
 [TINcoder](/downloads/tincoder/)  
+[In-Place Mover](/downloads/in-place-mover/)
 [NCMIT](/ncmit/)
