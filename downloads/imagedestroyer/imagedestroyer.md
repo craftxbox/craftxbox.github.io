@@ -1,13 +1,14 @@
 ---
 layout: page
-title: In-Place Mover
+title: Image Destroyer
 nomenu: true
-permalink: /downloads/in-place-mover/
+permalink: /downloads/imagedestroyer/
 ---
-A utility to move files and symlink to their original locations.
+A utility to write random colors to every pixel in an image.
+Supports PNG and JPEG
 
-<img src="/images/inplm_scr1.png">
-<img src="/images/inplm_scr2.png">
+<img src="/images/imde_scr1.png">
+<img src="/images/imde_scr2.png">
 
-[Download](https://github.com/craftxbox/In-Place-Mover/releases/latest)  
-[View the source](https://github.com/craftxbox/In-Place-Mover)
+[Download](https://github.com/craftxbox/ImageDestroyer/releases/latest)  
+[View the source](https://github.com/craftxbox/ImageDestroyer)
