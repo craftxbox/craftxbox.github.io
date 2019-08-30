@@ -5,8 +5,8 @@ date: 2019-08-30 00:07:15
 author: craftxbox
 keywords: discord, discord client, client, tabs, account, accounts, multiple accounts, tabbed, css, css injections, theming, custom theme
 ---
-Hello all, over the past week or two, I have been working on a new application.
-Introducing: DTabs, the tabbed discord client.
-With DTabs, you can make several tabs with different (or the same!) accounts and switch between them.
-You can also inject custom CSS files to theme the client.
+Hello all, over the past week or two, I have been working on a new application.  
+Introducing: DTabs, the tabbed discord client.  
+With DTabs, you can make several tabs with different (or the same!) accounts and switch between them.  
+You can also inject custom CSS files to theme the client.  
 View the [source code here](https://github.com/craftxbox/DTabs), or download the [latest release here](https://github.com/craftxbox/DTabs/releases/latest)
