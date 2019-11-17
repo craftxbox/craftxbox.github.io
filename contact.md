@@ -8,7 +8,7 @@ order: 3
 # Contact (order of preference)  
   
 `! craftxbox#4738`@[discordapp](discordapp.com)  
-`craftxbox`@[this.domain](mailto:this.domain) (PGP Capable)  
+`craftxbox`@[this.domain](mailto:craftxbox@this.domain) (PGP Capable)  
 `craftxbox`@[twitter](twitter.com)  
   
 PGP: 81DF 631C 898A A37B 37CB  0593 1D0D D18C 8DA4 93D3 [(KEY)](/pgp.asc)
