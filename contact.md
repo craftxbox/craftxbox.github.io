@@ -13,4 +13,4 @@ order: 3
   
 PGP: 81DF 631C 898A A37B 37CB  0593 1D0D D18C 8DA4 93D3 [(KEY)](/pgp.asc)
 
-<script type="text/javascript">window.onload= new function(){document.body.innerHTML = document.body.innerHTML.replace("this.domain","craftxbox.com")}</script>
+<script type="text/javascript">window.onload= new function(){document.body.innerHTML = document.body.innerHTML.replace(/this.domain/g,"craftxbox.com")}</script>
