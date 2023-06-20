@@ -3,6 +3,7 @@ title: craftxbox
 description: "Programs and other content."
 baseurl: ""
 url: "https://craftxbox.com"
+timezone: America/St_Johns
 
 # Build settings
 markdown: kramdown

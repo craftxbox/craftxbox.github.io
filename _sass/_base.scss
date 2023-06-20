@@ -41,7 +41,8 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-    max-width: 100%;
+    max-width: 500px;
+    width:100%;
     vertical-align: middle;
 }
 
@@ -83,7 +84,9 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
 }
 
-
+hr { 
+    border: 2px solid lighten($background-color, 20%);
+}
 
 /**
  * Links
@@ -128,9 +131,9 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
+    border: 1px solid lighten($background-color, 20%);
     border-radius: 3px;
-    background-color: #1d1f20;
+    background-color: $background-color;
 }
 
 code {
@@ -201,4 +204,19 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+.nobreak{
+    white-space:nowrap;
+}
+
+/**
+ * Scrollbar
+ */
+::-webkit-scrollbar {
+    background-color: lighten($background-color,20%);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: lighten($background-color,10%);
 }
