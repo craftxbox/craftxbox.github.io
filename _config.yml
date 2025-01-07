@@ -5,6 +5,9 @@ baseurl: ""
 url: "https://craftxbox.com"
 timezone: America/St_Johns
 
+include:
+ - .well-known
+
 # Build settings
 markdown: kramdown
 
