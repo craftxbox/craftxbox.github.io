@@ -3,5 +3,5 @@
   <Link rel="urn:xmpp:alt-connections:xbosh"
         href="https://crxb.cc/prosody/http-bind" />
   <Link rel="urn:xmpp:alt-connections:websocket"
-        href="https://crxb.cc/prosody/xmpp-websocket" />
+        href="wss://crxb.cc/prosody/xmpp-websocket" />
 </XRD>
