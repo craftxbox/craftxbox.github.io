@@ -8,7 +8,13 @@
     <meta name="language" content="en">  
     {% if page.keywords %}<meta name="keywords",content="craftxbox, craftxbox.com, craft xbox, {{ page.keywords }}">
     {% else %}<meta name="keywords" content="craftxbox, craftxbox.com, craft xbox">{% endif %}
-    {% if page.author %}<meta name="author" content="{{ page.author }}">{% endif %}
+    {% if page.author %}
+    <meta name="author" content="{{ page.author }}">
+        {% if page.author == "craftxbox" %}<meta name="fediverse:creator" content="@craftxbox@transfur.social">{% endif %}
+    {% else %}
+    <meta name="author" content="craftxbox">
+    <meta name="fediverse:creator" content="@craftxbox@transfur.social">
+    {% endif %}
     <meta name="copyright" content="© craftxbox 20{{ site.time | date: '%y' }}">
     <meta content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" property="og:title">
     <meta content="{{ site.description }}" property="og:description">
